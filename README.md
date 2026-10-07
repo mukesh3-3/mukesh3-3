@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Mukesh
 
-<!--
-**mukesh3-3/mukesh3-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student at SNIST.
 
-Here are some ideas to get you started:
+## Skills
+- Python, Java, C
+- HTML, CSS
+- Data Structures
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+- DSA
+- Data Science
+- AI & Machine Learning
+
+## Projects
+- Python Projects
+- Data Science Projects
+- DSA Programs
+
+## Contact
+- LinkedIn:https://www.linkedin.com/in/mukesh-jagadam-02706936a
+- Email:mukeshjagadam33@gmail.com
