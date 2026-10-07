@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mukesh
+# Hi there 👋, I'm Jagadam Mukesh
 
 🎓 B.Tech student at SNIST.
 
